@@ -1,2 +1,3 @@
 *.csv
 *.tgz
+!libraries-collection-statistics-2011-csv.csv
